@@ -10,5 +10,5 @@ cd GetIp
 python2 GetIp.py
 ```
 
-# Author 
-## ybenel 
+# Author
+## ybenel

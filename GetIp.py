@@ -182,7 +182,7 @@ print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+Green+"["+Red+"GetIp"+Green+"]"+Blue+"         ")
-print("     "+purple+"          "+yellow+"["+purple+"Created By ybenel"+yellow+"]"+yellow+"    "+Reset+"\n")
+print("     "+purple+"          "+yellow+"["+purple+"   Created By ybenel"+yellow+"]"+yellow+"    "+Reset+"\n")
 parse = optparse.OptionParser("""\
 \033[96m
 Usage:
@@ -487,3 +487,4 @@ def main():
 
 if __name__=="__main__":
 	main()
+##'-'!!
